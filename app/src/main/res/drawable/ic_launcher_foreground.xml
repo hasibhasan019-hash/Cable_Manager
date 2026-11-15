@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Plug-er prong duita -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,22 h5 v13 h-5 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,22 h5 v13 h-5 z" />
+
+    <!-- Plug-er body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,35 h28 v18 a14,14 0 0 1 -14,14 a14,14 0 0 1 -14,-14 z" />
+
+    <!-- Cable -->
+    <path
+        android:pathData="M54,67 L54,76 Q54,84 62,84 L72,84"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+</vector>
